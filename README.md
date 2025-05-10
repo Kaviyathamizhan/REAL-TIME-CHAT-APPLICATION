@@ -78,4 +78,4 @@ Conclusion
 This project effectively demonstrates a strong grasp of real-time web development, frontend design, and event-based communication. It can serve as both a valuable learning milestone and a portfolio-worthy application for internships, job applications, or personal projects.
 OUTPUT :
 
-![Image](https://github.com/user-attachments/assets/5f721885-a64a-4a03-8bfd-17620f52a9d0)
+![Image](https://github.com/user-attachments/assets/34e45603-4a3a-4bc5-b709-56167e42fb90)
